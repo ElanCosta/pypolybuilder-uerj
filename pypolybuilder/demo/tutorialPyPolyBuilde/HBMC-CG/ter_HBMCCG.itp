@@ -1,0 +1,17 @@
+[ moleculetype ]
+; Name   nrexcl
+TER      2
+
+[ atoms ]
+;  nr  type  resnr  resid  atom  cgnr  charge    mass    total_charge
+    1    TER  1   TER TER   1   0.000   42.000
+
+; total charge of the molecule:   0.000
+
+[ bonds ]
+;  ai   aj  funct   c0         c1
+
+
+[ branches ]
+;  donor   acceptor
+    1       0

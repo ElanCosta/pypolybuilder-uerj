@@ -1,0 +1,2 @@
+python ../pypolybuilder/__main__.py --bbs=C1.itp,C2.itp --in=connect.in --polymer --optgeo --params=list_param.itp 
+

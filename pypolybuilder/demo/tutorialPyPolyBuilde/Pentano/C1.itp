@@ -1,0 +1,13 @@
+[ moleculetype ]
+; Name nrexcl
+C1   2
+
+[ atoms ]
+;   nr  type  resnr  resid  atom   cgnr  charge    mass    total_charge
+     1   CH3      1      1     C      1       0  15.00
+     2   CH2      1      1     C      1       0  15.00
+
+[ bonds ]
+;
+1	2 	2	gb_21
+

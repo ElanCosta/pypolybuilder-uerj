@@ -1,0 +1,22 @@
+[ moleculetype ]
+; Name   nrexcl
+CORE     2
+
+[ atoms ]
+;  nr  type  resnr  resid  atom  cgnr  charge    mass    total_charge
+    1    CORE  1   CORE CORE   1   0.000   42.000
+; total charge of the molecule:   0.000
+
+[ bonds ]
+;  ai   aj  funct   c0         c1
+
+[ branches ]
+;  donor   acceptor
+     0	 1
+     0	 1
+;     0	 1
+
+
+[ exclusions ]
+;  ai   aj
+
